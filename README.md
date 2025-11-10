@@ -1,0 +1,2 @@
+# Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation
+-sea aeration is often misunderstood, mainly due to assumptions made by people who do not fully understand how ocean physics and biogeochemical cycles work. In reality, there is no dangerous risk associated with deep-sea aeration when it is done through air injection and nanobubble diffusion rather than large-scale water pumping.
